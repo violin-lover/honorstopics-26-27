@@ -1,0 +1,1 @@
+I learned how to create and move directories and files. I learned a lot of git commands, such as touch, add, commit, push. 
